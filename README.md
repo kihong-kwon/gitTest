@@ -8,3 +8,6 @@
   - fix-F
   - fix-G
   - fix-H
+  - fix-I
+  - fix-J
+  - fix-K
